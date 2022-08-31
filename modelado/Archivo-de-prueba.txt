@@ -1,1 +1,2 @@
-Este archivo es de prueba; en esta carpeta se debería alojar el diagrama UML.
+Este archivo es de prueba; en esta carpeta se debería alojar el diagrama UML..
+Actualización del 30/08
